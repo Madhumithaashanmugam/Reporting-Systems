@@ -456,10 +456,3 @@ Backend Developer
 FastAPI | Python | PostgreSQL | API Development
 
 ---
-
-✅ Steps:
-
-1. Copy everything
-2. Paste into README.md
-3. Commit & push
-4. Done — images will render automatically
