@@ -260,8 +260,8 @@ delay_days = submission_date - event_date
 * Future event dates
 * Submission before event date
 * Delay without reason
-
 ---
+
 # Test Cases
 
 ## Test Case 1 — Valid Submission
@@ -279,7 +279,7 @@ delay_days = submission_date - event_date
 
 **Expected Result:** PASS
 
-![Test Case 1](testcase_screenshots/testcase1.png)
+![Test Case 1](./testcase_screenshots/testcase1.png)
 
 ---
 
@@ -298,7 +298,7 @@ delay_days = submission_date - event_date
 
 **Expected Result:** PASS
 
-![Test Case 2](testcase_screenshots/testcase2.png)
+![Test Case 2](./testcase_screenshots/testcase2.png)
 
 ---
 
@@ -317,7 +317,7 @@ delay_days = submission_date - event_date
 
 **Expected Result:** REVIEW
 
-![Test Case 3](testcase_screenshots/testcase3.png)
+![Test Case 3](./testcase_screenshots/testcase3.png)
 
 ---
 
@@ -336,7 +336,7 @@ delay_days = submission_date - event_date
 
 **Expected Result:** BLOCK
 
-![Test Case 4](testcase_screenshots/testcase4.png)
+![Test Case 4](./testcase_screenshots/testcase4.png)
 
 ---
 
@@ -354,7 +354,7 @@ delay_days = submission_date - event_date
 
 **Expected Result:** Validation Error
 
-![Test Case 5](testcase_screenshots/testcase5.png)
+![Test Case 5](./testcase_screenshots/testcase5.png)
 
 ---
 
@@ -373,7 +373,7 @@ delay_days = submission_date - event_date
 
 **Expected Result:** Validation Error
 
-![Test Case 6](testcase_screenshots/testcase6.png)
+![Test Case 6](./testcase_screenshots/testcase6.png)
 
 ---
 
@@ -392,7 +392,7 @@ delay_days = submission_date - event_date
 
 **Expected Result:** Validation Error
 
-![Test Case 7](testcase_screenshots/testcase7.png)
+![Test Case 7](./testcase_screenshots/testcase7.png)
 
 ---
 
@@ -411,9 +411,10 @@ delay_days = submission_date - event_date
 
 **Expected Result:** Validation Error
 
-![Test Case 8](testcase_screenshots/testcase8.png)
+![Test Case 8](./testcase_screenshots/testcase8.png)
 
 ---
+
 
 # Architecture Overview
 
